@@ -25,14 +25,14 @@
 |—— README.md
 ```
 # 项目环境配置
-硬件	        配置
-处理器	       Intel(R) Core(TM) i5-7200U
-操作系统	  Windows10
-内存	        4.00GB
-编程语言	  Python3.7
-开发工具	  Pycharm
-深度学习框架	Pytorch1.7.1
-Python包	     jieba版本 0.42.1、sklearn版本0.23.2、xgboost版本1.2.1、gensim版本4.0.1等
+- 硬件	        配置
+- 处理器	       Intel(R) Core(TM) i5-7200U
+- 操作系统	  Windows10
+- 内存	        4.00GB
+- 编程语言	  Python3.7
+- 开发工具	  Pycharm
+- 深度学习框架	Pytorch1.7.1
+- Python包	     jieba版本 0.42.1、sklearn版本0.23.2、xgboost版本1.2.1、gensim版本4.0.1等
 
 # 运行方式
 - 克隆项目
