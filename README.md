@@ -32,7 +32,7 @@
 - 克隆项目
 
 ```
-git clone https://github.com/Wangpeiyi9979/IE-Bert-CNN.git
+git clone https://github.com/Henkleholm/Weibo-text-Classifier.git
 ```
 - 准备数据
     - 在这里[下载](https://pan.baidu.com/s/1DG1aVcDzbKG3ubkj8Q8nHQ)数据,提取码`59fg`。
